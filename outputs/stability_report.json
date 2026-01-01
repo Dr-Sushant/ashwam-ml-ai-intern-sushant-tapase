@@ -1,0 +1,16 @@
+[
+  {
+    "journal_id": "B001",
+    "agreement_rate": 0.6428571428571429,
+    "polarity_flip_rate": 0.0,
+    "bucket_drift_rate": 0.3333333333333333,
+    "status": "STABLE"
+  },
+  {
+    "journal_id": "B004",
+    "agreement_rate": 0.6666666666666666,
+    "polarity_flip_rate": 0.1,
+    "bucket_drift_rate": 0.2,
+    "status": "UNSAFE"
+  }
+]
